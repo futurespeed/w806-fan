@@ -17,5 +17,5 @@ Hilink w806 chipset Demo.
 ## 3D-Model
 ![fan-model](fan-model.png)
 
-## End Product
-![end-product](end-product.jpeg)
+## Preview
+![preview](preview.jpeg)
