@@ -1,11 +1,11 @@
 # w806-fan
 
-Hilink w806 chipset Demo.
+Hi-Link w806 chipset Demo.
 
 ## Material List
 |name|num|
 |----|----|
-|W806 chipset|1|
+|HLK-W806 chipset|1|
 |ULN2003 module|1|
 |MX1508 module|1|
 |28BYJ4-48 5VDC step motor|1|
