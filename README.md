@@ -14,6 +14,11 @@ Hi-Link w806 chipset Demo.
 |switch|3|
 |slip ring|1|
 
+## Functions
+- Speed Control
+- Swing Control
+- Status Display
+
 ## 3D-Model
 ![fan-model](fan-model.png)
 
